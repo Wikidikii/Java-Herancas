@@ -37,12 +37,5 @@ public class Funcionario {
 
     public void setCodfunc(int codfunc) {
         this.codfunc = codfunc;
-    }
-
-  
-    
-    
-    
-    
-    
+    }    
 }
